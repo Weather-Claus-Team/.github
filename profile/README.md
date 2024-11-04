@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br />
+  <br>
   <img src="https://github.com/user-attachments/assets/d971e139-2f93-463b-8eba-e7fc7c5a71da" alt="WC logo" width="200">
   <p/>
   <p>
@@ -15,12 +15,23 @@
 
 ## 프로젝트 소개
 ${\textsf{\color{#e5e8e8}웨더클로스 프로젝트는 날씨에 따른 옷차림을 추천해주는 웹사이트입니다.}}$
-<br />
+<br>
 ${\textsf{\color{#e5e8e8}검색이나 위치 동의를 통해 원하는 지역의 날씨를 확인하고 옷차림을 추천 받아보세요}}$ ☂️
-<p />
+<p>
 ${\textsf{\color{#e5e8e8}웨더클로스 사이트 : }}$  
-
+<br>
+<br>
+  
 ## 개발 기간과 팀 웨더클로스
+개발 기간 : 2024.10.04 ~ 
+<br>
+- 팀 웨더클로스 소개
+
+| `FE`  | `FE`  | `BE`  |
+| :---: | :---: | :---: |
+| <img src="https://github.com/eunsuknoh.png" width="150"> | <img src="https://github.com/0Huns.png" width="150"> | <img src="https://github.com/HyungGeun94.png" width="150"> |
+| [Eunsuk](https://github.com/eunsuknoh) | [Younghun](https://github.com/0Huns) | [Hyunggeun](https://github.com/HyungGeun94) |
+<br>
 
 ## 기술 스택
 ### 🪄&ensp;프론트엔드 
@@ -51,8 +62,7 @@ ${\textsf{\color{#e5e8e8}웨더클로스 사이트 : }}$
   <img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
-
-
+<br>
 
 ## 주요 기능
 
