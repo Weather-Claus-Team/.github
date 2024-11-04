@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <img src="https://github.com/user-attachments/assets/d971e139-2f93-463b-8eba-e7fc7c5a71da" alt="WC logo" width="200">
-  <p/>
+  <p>
   <p>
   Weather Claus
   </p>
@@ -14,17 +14,15 @@
 <br/>
 
 ## 프로젝트 소개
-${\textsf{\color{#e5e8e8}웨더클로스 프로젝트는 날씨에 따른 옷차림을 추천해주는 웹사이트입니다.}}$
-<br>
-${\textsf{\color{#e5e8e8}검색이나 위치 동의를 통해 원하는 지역의 날씨를 확인하고 옷차림을 추천 받아보세요}}$ ☂️
-<p>
-${\textsf{\color{#e5e8e8}웨더클로스 사이트 : }}$  
+웨더클로스 프로젝트는 날씨에 따른 옷차림을 추천해주는 웹사이트입니다. <br>
+검색이나 위치 동의를 통해 원하는 지역의 날씨를 확인하고 옷차림을 추천 받아보세요 <p>
+&ensp; ${\textsf{\color{LightSlateGray}p.s. 웨더클로스 멤버가 되어 팀 웨더클로스가 준비한 특별한 기능들을 만나보세요}}$ 🎁 <p>
+웨더클로스 사이트 :
 <br>
 <br>
   
 ## 개발 기간과 팀 웨더클로스
-개발 기간 : 2024.10.04 ~ 
-<br>
+개발 기간 : 2024.10.04 ~ <br>
 - 팀 웨더클로스 소개
 
 | `FE`  | `FE`  | `BE`  |
