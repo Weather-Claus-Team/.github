@@ -7,7 +7,7 @@
   </p>
 </h1>
 
-<h4 align="center">날씨가 어려운 이들을 위한 사이트, 웨더 클로스입니다</h4>
+<h4 align="center">날씨가 어려운 이들을 위한 사이트, ${\textsf{\color{#adbcc9}웨더클로스}}$입니다</h4>
 
 <!-- 이미지 추가 예정 (gif 등) -->
 
@@ -15,19 +15,20 @@
 
 ## 프로젝트 소개
 웨더클로스 프로젝트는 날씨에 따른 옷차림을 추천해주는 웹사이트입니다. <br>
-검색이나 위치 동의를 통해 원하는 지역의 날씨를 확인하고 옷차림을 추천 받아보세요 <p>
-&ensp; ${\textsf{\color{LightSlateGray}p.s. 웨더클로스 멤버가 되어 팀 웨더클로스가 준비한 특별한 기능들을 만나보세요}}$ 🎁 <p>
+검색이나 위치 동의를 통해 원하는 지역의 날씨를 확인하고 옷차림 추천을 받아보세요 <p>
+&ensp; ${\textsf{\color{LightSlateGray}p.s. 웨더클로스 멤버가 되어 팀 웨더클로스가 준비한 특별한 기능을 만나보세요 !}}$ 🎁 <p>
 웨더클로스 사이트 :
 <br>
 <br>
   
 ## 개발 기간과 팀 웨더클로스
-개발 기간 : 2024.10.04 ~ <br>
+개발 기간 : 2024.10.04 - 11.13 <br>
 - 팀 웨더클로스 소개
 
+<!-- | <img src="https://github.com/eunsuknoh.png" width="150"> | <img src="https://github.com/0Huns.png" width="150"> | <img src="https://github.com/HyungGeun94.png" width="150"> | -->
 | `FE`  | `FE`  | `BE`  |
 | :---: | :---: | :---: |
-| <img src="https://github.com/eunsuknoh.png" width="150"> | <img src="https://github.com/0Huns.png" width="150"> | <img src="https://github.com/HyungGeun94.png" width="150"> |
+| <img src="https://github.com/user-attachments/assets/c1451f00-73f1-4db3-8f41-d84a73194ce0" width="140"> | <img src="https://github.com/user-attachments/assets/3df26c4d-1d57-4a05-bd05-a02c5fb5cc7c" width="150"> | <img src="https://github.com/user-attachments/assets/b4436be5-e6d7-4d2d-a724-3764122f2abb" width="150"> |
 | [Eunsuk](https://github.com/eunsuknoh) | [Younghun](https://github.com/0Huns) | [Hyunggeun](https://github.com/HyungGeun94) |
 <br>
 
