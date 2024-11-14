@@ -7,8 +7,9 @@
   </p>
 </h1>
 
-<h4 align="center">날씨가 어려운 이들을 위한 사이트, ${\textsf{\color{#adbcc9}웨더클로스}}$입니다</h4>
+<h4 align="center">날씨가 어려운 이들을 위한 사이트, ${\textsf{\color{#adbcc9}웨더클로스}}$입니다</h4> <br>
 
+![ws_video](https://github.com/user-attachments/assets/865f2e86-ffae-4904-9cff-fe61eee65d9a)
 <!-- 이미지 추가 예정 (gif 등) -->
 
 <br/>
