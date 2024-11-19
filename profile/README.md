@@ -63,33 +63,38 @@
 <br>
 
 ## 주요 기능
-- 회원가입 ・ 로그인 <br>
+#### 1. 검색 ・ 날씨 카드 
+
+![ws_search](https://github.com/user-attachments/assets/ee4aaf96-70ac-4749-aafb-231ebf790597)
+
+&emsp;3일간의 날씨 카드를 통해 전 세계의 날씨와 옷차림 추천 확인 가능
+<br> 
+<br> 
+
+#### 2. 회원가입 ・ 로그인 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/62807e40-19d4-4b24-a7ce-e32f8efb2a80" width="400" >
   <img src="https://github.com/user-attachments/assets/725a370d-c095-4771-a0da-78a81d6cb9cc" width="400" >
-</div>
+</div> <br>
 
-회원가입) 프론트 ・ 백엔드 이중 유효성 검사 / 아이디 ・ 이메일 중복 확인 / 이메일 인증번호 및 리캡챠 <br> 
-로그인) JWT 토큰 및 로컬스토리지 활용 / 아이디 찾기
+&emsp;회원가입 후 로그인을 통해 로그인 유저에 한정된 기능 사용 가능
 <br> 
 <br> 
 
-- 검색 ・ 날씨 카드 <br>
+#### 3. 마이페이지 
 
-![ws_search](https://github.com/user-attachments/assets/ee4aaf96-70ac-4749-aafb-231ebf790597)
+![ws_mypage](https://github.com/user-attachments/assets/9fa0762f-9c21-4547-97b6-40a295a88cd5)
 
-3일간의 날씨 카드를 통해 전 세계의 날씨와 옷차림 추천 확인 가능
-<br> 
-<br> 
-  
-- 마이페이지 <br>
-
-아바타 이미지 ・ 닉네임 변경 / 비밀번호 변경 / 계정 탈퇴
+&emsp;로그인 유저 한정) 아바타 이미지 ・ 닉네임 변경 / 비밀번호 변경 / 계정 탈퇴 가능
 <br> 
 <br> 
 
-- 방명록 겸 채팅창 <br>
+#### 4. 방명록 겸 채팅창 
+
+![ws_chat](https://github.com/user-attachments/assets/b2631497-3e6b-452a-a4a2-88d88ee42229)
+
+&emsp;로그인 유저 한정) 방명록 겸 채팅창 사용 가능
 
 <br>
 
