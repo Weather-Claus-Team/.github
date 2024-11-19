@@ -66,8 +66,8 @@
 - 회원가입 ・ 로그인 <br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/62807e40-19d4-4b24-a7ce-e32f8efb2a80" width="300">
-  <img src="https://github.com/user-attachments/assets/725a370d-c095-4771-a0da-78a81d6cb9cc" width="300">
+  <img src="https://github.com/user-attachments/assets/62807e40-19d4-4b24-a7ce-e32f8efb2a80" >
+  <img src="https://github.com/user-attachments/assets/725a370d-c095-4771-a0da-78a81d6cb9cc" >
 </div>
 
 회원가입) 프론트 ・ 백엔드 이중 유효성 검사 / 아이디 ・ 이메일 중복 확인 / 이메일 인증번호 및 리캡챠 <br> 
