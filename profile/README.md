@@ -9,9 +9,7 @@
 
 <h4 align="center">날씨가 어려운 이들을 위한 사이트, ${\textsf{\color{#adbcc9}웨더클로스}}$입니다</h4> <br>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/af76ee1a-e268-4976-89c8-4b8155939436" width="900">
-</div>
+![ws_video_1](https://github.com/user-attachments/assets/e5cdc26e-df71-4f3b-b9d6-45d72f18105d)
 
 <br/>
 
@@ -67,8 +65,11 @@
 ## 주요 기능
 - 회원가입 ・ 로그인 <br>
 
-<img src="https://github.com/user-attachments/assets/62807e40-19d4-4b24-a7ce-e32f8efb2a80" height="390">
-<img src="https://github.com/user-attachments/assets/725a370d-c095-4771-a0da-78a81d6cb9cc" height="390"> <br>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/62807e40-19d4-4b24-a7ce-e32f8efb2a80" width="300">
+  <img src="https://github.com/user-attachments/assets/725a370d-c095-4771-a0da-78a81d6cb9cc" width="300">
+</div>
+
 회원가입) 프론트 ・ 백엔드 이중 유효성 검사 / 아이디 ・ 이메일 중복 확인 / 이메일 인증번호 및 리캡챠 <br> 
 로그인) JWT 토큰 및 로컬스토리지 활용 / 아이디 찾기
 <br> 
@@ -76,7 +77,8 @@
 
 - 검색 ・ 날씨 카드 <br>
 
-<img src="https://github.com/user-attachments/assets/ad371dac-3835-43ee-96b7-b39b11ef0245" width="900"> <br>
+![ws_search](https://github.com/user-attachments/assets/ee4aaf96-70ac-4749-aafb-231ebf790597)
+
 3일간의 날씨 카드를 통해 전 세계의 날씨와 옷차림 추천 확인 가능
 <br> 
 <br> 
