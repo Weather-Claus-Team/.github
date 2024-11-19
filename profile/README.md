@@ -9,8 +9,9 @@
 
 <h4 align="center">날씨가 어려운 이들을 위한 사이트, ${\textsf{\color{#adbcc9}웨더클로스}}$입니다</h4> <br>
 
-![ws_video](https://github.com/user-attachments/assets/865f2e86-ffae-4904-9cff-fe61eee65d9a)
-<!-- 이미지 추가 예정 (gif 등) -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/af76ee1a-e268-4976-89c8-4b8155939436" width="900">
+</div>
 
 <br/>
 
@@ -18,7 +19,7 @@
 웨더클로스 프로젝트는 날씨에 따른 옷차림을 추천해주는 웹사이트입니다. <br>
 검색이나 위치 동의를 통해 원하는 지역의 날씨를 확인하고 옷차림 추천을 받아보세요 <p>
 &ensp; ${\textsf{\color{#adbcc9}p.s. 웨더클로스 멤버가 되어 팀 웨더클로스가 준비한 특별한 기능을 만나보세요 !}}$ 🎁 <p>
-웨더클로스 사이트 :
+웨더클로스 사이트 : https://weather-claus.netlify.app/
 <br>
 <br>
   
@@ -26,7 +27,6 @@
 개발 기간 : 2024.10.04 - 11.13 <br>
 - 팀 웨더클로스 소개
 
-<!-- | <img src="https://github.com/eunsuknoh.png" width="150"> | <img src="https://github.com/0Huns.png" width="150"> | <img src="https://github.com/HyungGeun94.png" width="150"> | -->
 | `FE`  | `FE`  | `BE`  |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/c1451f00-73f1-4db3-8f41-d84a73194ce0" width="140"> | <img src="https://github.com/user-attachments/assets/3df26c4d-1d57-4a05-bd05-a02c5fb5cc7c" width="150"> | <img src="https://github.com/user-attachments/assets/b4436be5-e6d7-4d2d-a724-3764122f2abb" width="150"> |
@@ -66,11 +66,27 @@
 
 ## 주요 기능
 - 회원가입 ・ 로그인 <br>
-  
+
+<img src="https://github.com/user-attachments/assets/62807e40-19d4-4b24-a7ce-e32f8efb2a80" height="390">
+<img src="https://github.com/user-attachments/assets/725a370d-c095-4771-a0da-78a81d6cb9cc" height="390"> <br>
+회원가입) 프론트 ・ 백엔드 이중 유효성 검사 / 아이디 ・ 이메일 중복 확인 / 이메일 인증번호 및 리캡챠 <br> 
+로그인) JWT 토큰 및 로컬스토리지 활용 / 아이디 찾기
+<br> 
+<br> 
+
 - 검색 ・ 날씨 카드 <br>
+
+<img src="https://github.com/user-attachments/assets/ad371dac-3835-43ee-96b7-b39b11ef0245" width="900"> <br>
+3일간의 날씨 카드를 통해 전 세계의 날씨와 옷차림 추천 확인 가능
+<br> 
+<br> 
   
 - 마이페이지 <br>
-  
+
+아바타 이미지 ・ 닉네임 변경 / 비밀번호 변경 / 계정 탈퇴
+<br> 
+<br> 
+
 - 방명록 겸 채팅창 <br>
 
 <br>
